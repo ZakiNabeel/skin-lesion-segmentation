@@ -1,0 +1,13 @@
+# Ignore the datasets and zip files
+data/
+*.zip
+
+# Ignore the generated edge maps (unless your instructor specifically wants them pushed)
+output/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints (if you use notebooks for testing)
+.ipynb_checkpoints/
